@@ -1,3 +1,4 @@
+# "Функция заглавные буквы"
 def str_func():
     print('HELLO')
 
